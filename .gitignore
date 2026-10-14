@@ -1,0 +1,34 @@
+# Ambient Virtual / venv (MUITO IMPORTANTE: nunca suba o venv)
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos de código e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebooks (arquivos temporários e checkpoints)
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Dados locais / Datasets pesados (opcional, mas muito recomendado)
+# Descomente as linhas abaixo se tiver uma pasta de dados locais grandes:
+# data/
+# *.csv
+# *.xlsx
+# *.parquet
+# *.sqlite3
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+
+# Variáveis de ambiente e credenciais/chaves de API
+.env
+*.pem
+*.key
