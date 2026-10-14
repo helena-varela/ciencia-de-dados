@@ -1,6 +1,6 @@
 # Ciência de Dados - Laboratórios Práticos
 
-- **Nome Completo:** SMaria Helena Varela Kizerlla Guanaes
+- **Nome Completo:** Maria Helena Varela Kizerlla Guanaes
 - **Matrícula:** 20250033713
 
 ## Sumário
