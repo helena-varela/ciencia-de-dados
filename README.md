@@ -8,5 +8,6 @@
   - [Aula 6 - Imputação e Normalização de Dados](./Unidade_02/Aula_06)
   - [Aula 7 - Estatística Inferencial](./Unidade_02/Aula_07)
   - [Aula 8 - Testes Paramétricos](./Unidade_02/Aula_08)
+  - [Aula 9 - Testes Não Paramétricos](./Unidade_02/Aula_09)
 
 ---
